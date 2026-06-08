@@ -1,25 +1,75 @@
 # -MTN-Q1-2026-Churn-Analysis
-MTN Nigeria Customer Churn Analysis
-Project Title: MTN Nigeria Customer Churn Analysis Dashboard
+MTN Nigeria Customer Churn Analysis Dashboard - Q1 2026
 
-Objective: Analyze customer churn patterns and identify factors influencing customer retention and revenue performance.
+📍Project Overview
 
-Process:
+This project analyzes customer churn patterns for MTN Nigeria during Q1 2026. The objective was to identify key factors influencing customer attrition, understand customer behavior, and provide insights that can support customer retention strategies.
 
-1. Data Extraction and Cleaning (ETL)
+⚡️Business Problem
+
+Customer churn can significantly impact revenue and business growth. This analysis aims to uncover the main drivers of churn and identify customer segments that are more likely to discontinue services.
+
+🖇️Tools Used
+
+* Microsoft Excel
+* Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+
+Project Process
+
+1. Data Cleaning and Transformation (ETL)
+
+* Removed duplicate records
+* Handled missing values
+* Corrected data inconsistencies
+* Standardized data formats
+* Prepared data for analysis using Power Query
+
 2. Exploratory Data Analysis (EDA)
-3. Data Modeling
-4. DAX Measure Creation
-5. Dashboard Development
-6. Business Insight Generation
 
-Tools: Excel, Power BI, Power Query, DAX
+* Analyzed customer demographics
+* Investigated churn patterns across customer groups
+* Explored revenue trends and customer feedback
 
-Deliverables:
+3. Data Modeling & DAX
 
-* Interactive Power BI Dashboard
-* Customer Churn Analysis Report
-* Business Recommendations
+Created DAX measures and calculations for:
 
-Business Value:
-The dashboard provides actionable insights into customer behavior, churn drivers, revenue trends, and customer satisfaction, enabling data-driven decision-making and retention strategies.
+* Total Customers
+* Total Revenue
+* Average Unit Price
+* Average Data Usage
+* Churn Metrics
+* Customer Distribution Analysis
+
+4. Dashboard Development
+
+Built an interactive Power BI dashboard featuring:
+
+* Customer Churn by Gender
+* Churn by Age Group
+* Churn Rate by Device
+* Revenue Trends
+* Customer Satisfaction Reviews
+* Geographic Customer Distribution
+* Interactive Filters and Slicers
+
+Key Findings
+
+* Total Customers: 974
+* Total Revenue: ₦199M
+* Female customers recorded slightly higher churn than male customers.
+* High call-related issues were the leading cause of customer churn.
+* Mobile device users experienced the highest churn rate.
+* Revenue peaked in February before declining in March.
+
+Business Recommendations
+
+* Improve network quality and call reliability.
+* Develop retention campaigns targeting high-risk customer segments.
+* Enhance customer support responsiveness.
+* Monitor device-specific churn trends for targeted interventions.
+
+
+
