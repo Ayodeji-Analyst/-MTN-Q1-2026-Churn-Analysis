@@ -1,6 +1,8 @@
 # -MTN-Q1-2026-Churn-Analysis
 MTN Nigeria Customer Churn Analysis Dashboard - Q1 2026
 
+![MTN Customer Churn Dashboard](images/94AB1258-FC6A-4CE0-8870-1079A92B9643.png)
+
 📍Project Overview
 
 This project analyzes customer churn patterns for MTN Nigeria during Q1 2026. The objective was to identify key factors influencing customer attrition, understand customer behavior, and provide insights that can support customer retention strategies.
