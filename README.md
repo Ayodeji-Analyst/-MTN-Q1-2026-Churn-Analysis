@@ -1,7 +1,9 @@
 # -MTN-Q1-2026-Churn-Analysis
 MTN Nigeria Customer Churn Analysis Dashboard - Q1 2026
 
-![MTN Customer Churn Dashboard](images/94AB1258-FC6A-4CE0-8870-1079A92B9643.png)
+## Dashboard Preview
+
+![MTN Customer Churn Dashboard](94AB1258-FC6A-4CE0-8870-1079A92B9643.png)
 
 📍Project Overview
 
